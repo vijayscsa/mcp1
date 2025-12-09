@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ETL & Ops Nexus",
+  "description": "A specialized SRE chatbot agent for monitoring Ab Initio ETL pipelines and managing PagerDuty incidents. Features real-time MCP connectivity and intelligent failure analysis.",
+  "requestFramePermissions": []
+}
